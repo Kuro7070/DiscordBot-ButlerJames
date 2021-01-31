@@ -1,4 +1,4 @@
-# DiscordBot-ButlerJames
+# DiscordBot-ButlerJames -> Autoposting Memes from Subreddits
 
 
 This bot posts random memes from selected subreddits at a selected interval.
