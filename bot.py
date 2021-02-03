@@ -106,4 +106,4 @@ if __name__ == "__main__":
             traceback.print_exc()
             print("\n\n")
 
-    bot.run('ODA0Njk0Mjg1NTM3NzcxNTcx.YBQD9A.1HFrP1J9YwopyHsIq3Xt33i8hwo')
+    bot.run(token)
